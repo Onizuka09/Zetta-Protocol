@@ -4,7 +4,9 @@
 It provides a simple framing format on top of any byte-oriented transport such as **UART, SPI, I²C, USB CDC**, or even TCP streams.  
 The protocol is implemented in **C for microcontrollers** and mirrored with a **Python API** for PC-side communication and testing.
 > For now the library only tested with UART transport protocol and tested on STM32
-> ⚠️ This project is currently **v0.0.1** and under active development.  
+
+> This project is currently **v0.0.1** and under active development.
+
 > APIs and internal behavior may change.
 ---
 ## Features
